@@ -42,3 +42,19 @@ a:link, :visited {
 a:hover, i {
     color: steelblue;
 }
+
+#number-input {
+    width: 50%;
+}
+
+fieldset {
+    width: max-content;
+}
+
+.success {
+    color: green;
+}
+
+.failure {
+    color: red;
+}
